@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/Desktop/ML%20project/mlruns/0/b714ae2a57574f579f5ff6092768fbc2/artifacts
+end_time: 1722877287027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b714ae2a57574f579f5ff6092768fbc2
+run_name: suave-cat-102
+run_uuid: b714ae2a57574f579f5ff6092768fbc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722877280998
+status: 3
+tags: []
+user_id: macbook
